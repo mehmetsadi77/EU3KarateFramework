@@ -44,7 +44,7 @@ Feature: welcome to karate
     * print spartan.phone
     * print spartan.name
     * print spartan.id
-  @wip
+
   Scenario: json array objects
     * def students =
     """
